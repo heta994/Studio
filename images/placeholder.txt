@@ -1,0 +1,14 @@
+PLACEHOLDER IMAGES NEEDED:
+
+Please add the following images to this folder:
+- project1.jpg (for Project One)
+- project2.jpg (for Project Two) 
+- project3.jpg (for Project Three)
+- background.jpg (for hero background)
+
+You can use any architectural/interior design images from:
+- Unsplash.com
+- Pexels.com
+- Or your own project photos
+
+For now, the website will work but show broken image icons until you add these images. 
